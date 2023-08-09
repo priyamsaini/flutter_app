@@ -1,4 +1,4 @@
-# Download Link
+# Download Link (Currently Android Only)
 https://drive.google.com/drive/folders/1pX7VINJqL-gIBFnAVdTwl2j94UEDi3Wp?usp=drive_link
 # Output
 <img src="https://github.com/priyamsaini/flutter_app/assets/40400546/a050bfa2-ef90-4b94-a5f7-affb4d3947f0" height="600px" width="400px">
